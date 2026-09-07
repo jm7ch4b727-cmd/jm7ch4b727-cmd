@@ -1,68 +1,40 @@
->> ### Project Plan : AI Project 1 ###<<
-1. Course Name : AI 
-2. Team Information
-- Team Name: Mamur_Team
-- Team Members (Name / Student ID / Role):
- > Leader Name: Park Mark,  Student ID:202390208, Group: E40A, Role: Leader, Phone Number: +998(90)345-59-32
- > Member Name 1: Park Mark,  Student ID:202390208, Group: E40B,
- , Role: 
- > Member Name 2: Abduraxmanov Azizxon,  Student ID:202390246, Group: E40B, Role:  
- > Member Name 3:Shiyakhmetov Ramis,  Student ID:202390223, Group: E40B, Role: 
- > Member Name 4:Moluechenko Bogdan,  Student ID: 202390210, Group: E40B:, Role: 
+# 👋 Hi, I'm Aziz Abduraxmanov
 
-3. Project Title : Data Analysis
-- (Provide a clear and descriptive title for your project.)
+I'm a beginner **Project Manager** and aspiring **AI Engineer / Developer** from Tashkent, Uzbekistan.
 
-4. Dataset Information
-- Dataset Title:
-- Source Website / URL:
-- Description of the dataset:
-- Why this dataset was selected:
-- Size of dataset (rows, columns):
+Currently, I'm developing my skills in technology, programming, artificial intelligence, and project management. I enjoy building practical projects and learning new technologies.
 
-5. Project Objectives
-- What problem are you trying to solve?
-- What questions do you want to answer using data analysis?
-- Expected insights from the dataset.
+## 🚀 About Me
 
-6. Data Preparation (Using Pandas)
-Describe clearly with code snippets and explanation:
-- Loading the dataset
-- Cleaning data (missing values, duplicates, data types)
-- Data transformation and feature creation
+* 🎓 Interested in **Artificial Intelligence and Software Development**
+* 💻 Learning **Python, JavaScript, Machine Learning, and AI**
+* 📊 Interested in **Project Management and IT products**
+* 🤖 Building and experimenting with **Telegram Bots and AI projects**
+* 🏋️ Interested in self-development and continuous learning
 
-7. Data Analysis Tasks (Using Pandas)
-Perform meaningful analysis using Pandas operations:
-- Filtering, sorting, grouping
-- Pivot tables or aggregation
-- Answer the questions defined in the objectives section
-- Include code and explanation
+## 🛠️ Technologies & Skills
 
-8. Key Findings and Insights
-- What did you discover from the data?
-- Business or real-world interpretation of the results
+* Python
+* JavaScript
+* Git & GitHub
+* SQL
+* Machine Learning
+* Artificial Intelligence
+* Telegram Bot Development
 
-9. Project Timeline (5 Weeks)
+## 📚 Currently Learning
 
-| Week                     |        Activities                   |
-|------------------------  |-------------------------------------|
-| Week 1(07.Sep ~ 13.Sep)  | Dataset search and project planning |
-| Week 2(14.Sep ~ 20.Sep)  | Data cleaning and preparation |
-| Week 3(21.Sep ~ 27.Sep)  |  Data analysis and visualization |
-| Week 5(28.Sep ~ 13.Oct)  | Report writing and presentation preparation |
-Presentation: 14.Oct
+* Machine Learning
+* AI Engineering
+* Data Engineering
+* Backend Development
+* Project Management
 
-10. Outcome of the Project
-- What students learned from this project
-- Skills developed in Pandas data analysis
+## 🎯 Goals
 
-11. Conclusion
-- Summary of the project and its importance
+My goal is to become a strong IT specialist and build useful products using modern technologies and Artificial Intelligence.
 
-12. References
-- Dataset source
-- Tutorials, websites, or documentation used
+## 📫 Contact Me
 
-13. Appendix
-- Important code snippets
-- Additional charts or tables
+* 📍 Tashkent, Uzbekistan
+* 💼 Open to new opportunities and interesting projects
